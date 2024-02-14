@@ -1,1 +1,1 @@
-this is the sample text in vs code
+'this is a sample'
